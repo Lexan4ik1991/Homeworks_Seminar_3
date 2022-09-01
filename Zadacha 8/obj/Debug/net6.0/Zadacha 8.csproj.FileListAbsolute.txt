@@ -1,0 +1,15 @@
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\bin\Debug\net6.0\Zadacha 8.exe
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\bin\Debug\net6.0\Zadacha 8.deps.json
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\bin\Debug\net6.0\Zadacha 8.runtimeconfig.json
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\bin\Debug\net6.0\Zadacha 8.dll
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\bin\Debug\net6.0\Zadacha 8.pdb
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.csproj.AssemblyReference.cache
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.AssemblyInfoInputs.cache
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.AssemblyInfo.cs
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.csproj.CoreCompileInputs.cache
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.dll
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\refint\Zadacha 8.dll
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.pdb
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\Zadacha 8.genruntimeconfig.cache
+C:\Users\Lexan4ik\Desktop\seminarprog1\task\Zadacha 8\obj\Debug\net6.0\ref\Zadacha 8.dll
